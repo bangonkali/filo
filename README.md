@@ -1,0 +1,22 @@
+# filo
+
+Command to create this
+
+```
+flutter create -i swift -a kotlin --org ph.com.regalado.filo --description "This is a demonstration of the JS interpreter and Flutter Android Integration." --project-name filo Filo
+```
+
+This is a demonstration of the JS interpreter and Flutter Android Integration.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
